@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dlsvr04.asus.com.cn/pub/ASUS/ZenFone/ZS620KL/UL-Z01R-WW-90.11.162.111-user.zip
-  ROM_NAME: ZenUI
+  ROM_URL: https://hugeota.d.miui.com/20.7.2/miui_MI8_20.7.2_93c428b61e_10.0.zip
+  ROM_NAME: POCO F1 MIUI12 V1
   TZ: Asia/Shanghai
 
 jobs:
